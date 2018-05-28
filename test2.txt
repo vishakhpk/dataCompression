@@ -1,0 +1,15 @@
+<script type="text/javascript" src="http://media.perthnow.com.au/common/scripts/swfobject.js"></script>
+<script type="text/javascript">
+	var params = { allowScriptAccess: "always" };
+	swfobject.embedSWF(
+	"http://www.media.perthnow.com.au/multimedia/2009/may/swf/pandemic2.swf", // LOCATION OF SWF FILE
+	"pn_flashEmbed",
+	"900", // WIDTH
+	"726", // HEIGHT
+	"8.0.0",
+	"http://media.perthnow.com.au/multimedia/2008/05/20080526_weather/common/expressInstall.swf",params);
+</script>
+
+<div style="position: absolute;">
+<div id="pn_flashEmbed">
+    <p>In order to play this game, you are required to install the Adobe Flash player.</p><p><a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">Download the Adobe Flash Player</a></p></div>
